@@ -1,0 +1,11 @@
+Test acc 1: 
+Account number for send message: PRTMPDK4A4hbzezTmNQi3YkuukTxkztFkV4VTfw4791
+24-word phrase for first registration: govern pipe spin wish degree diamond ethics effort polar very food area cost maximum essay bundle endorse negative coil test ship laundry puzzle move
+Password in the first registration: You can enter any password from 9 to 16 characters. Or enter - 111111111
+
+Test acc 2:
+Account number for send message: PRTMQQFB4E41NMPDsc58EU3ooUqSSnBHAjQ7Dsef8P9
+24-word phrase for first registration: airport salute express attract conduct phone become simple math hawk section cheap scissors sad monitor identify ostrich oil exercise sad dice key relief stay
+Password in the first registration: You can enter any password from 9 to 16 characters. Or enter - 111111111
+
+To comply with your privacy and security policies, I removed all the functionality that allowed user to make cryptocurrency transfers. Now the user can only send messages through  blockchain database, he cannot make token transfers.
